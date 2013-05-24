@@ -1,0 +1,92 @@
+
+@font-face {
+    font-family: 'ClarendonCn';
+    src: url('clarendonconbtwebfont.eot');
+    src: url('clarendonconbtwebfont.eot?#iefix') format('embedded-opentype'),
+         url('clarendonconbtwebfont.woff') format('woff'),
+         url('clarendonconbtwebfont.ttf') format('truetype'),
+         url('clarendonconbtwebfont.svg#ClarendonCnBTRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ClarendonCnBold';
+    src: url('clarendonboldcondensedbtwebfont.eot');
+    src: url('clarendonboldcondensedbtwebfont.eot?#iefix') format('embedded-opentype'),
+         url('clarendonboldcondensedbtwebfont.woff') format('woff'),
+         url('clarendonboldcondensedbtwebfont.ttf') format('truetype'),
+         url('clarendonboldcondensedbtwebfont.svg#ClarendonCnBTBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+/*
+@font-face {
+    font-family: 'ClarendonLight';
+    src: url('clarendontligwebfont.eot');
+    src: url('clarendontligwebfont.eot?#iefix') format('embedded-opentype'),
+         url('clarendontligwebfont.woff') format('woff'),
+         url('clarendontligwebfont.ttf') format('truetype'),
+         url('clarendontligwebfont.svg#ClarendonTLigRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Clarendon';
+    src: url('clarendonbtwebfont.eot');
+    src: url('clarendonbtwebfont.eot?#iefix') format('embedded-opentype'),
+         url('clarendonbtwebfont.woff') format('woff'),
+         url('clarendonbtwebfont.ttf') format('truetype'),
+         url('clarendonbtwebfont.svg#ClarendonBTRoman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ClarendonMedium';
+    src: url('clarendontmedwebfont.eot');
+    src: url('clarendontmedwebfont.eot?#iefix') format('embedded-opentype'),
+         url('clarendontmedwebfont.woff') format('woff'),
+         url('clarendontmedwebfont.ttf') format('truetype'),
+         url('clarendontmedwebfont.svg#ClarendonTMedRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ClarendonBold';
+    src: url('clarendonboldwebfont.eot');
+    src: url('clarendonboldwebfont.eot?#iefix') format('embedded-opentype'),
+         url('clarendonboldwebfont.woff') format('woff'),
+         url('clarendonboldwebfont.ttf') format('truetype'),
+         url('clarendonboldwebfont.svg#ClarendonBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ClarendonHeavy';
+    src: url('clarendonheavybtwebfont.eot');
+    src: url('clarendonheavybtwebfont.eot?#iefix') format('embedded-opentype'),
+         url('clarendonheavybtwebfont.woff') format('woff'),
+         url('clarendonheavybtwebfont.ttf') format('truetype'),
+         url('clarendonheavybtwebfont.svg#ClarendonHvBTHeavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ClarendonExtraBold';
+    src: url('clarendontextbolwebfont.eot');
+    src: url('clarendontextbolwebfont.eot?#iefix') format('embedded-opentype'),
+         url('clarendontextbolwebfont.woff') format('woff'),
+         url('clarendontextbolwebfont.ttf') format('truetype'),
+         url('clarendontextbolwebfont.svg#ClarendonTExtBolRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
+@font-face {
+    font-family: 'ClarendonBlack';
+    src: url('clarendonblkbtwebfont.eot');
+    src: url('clarendonblkbtwebfont.eot?#iefix') format('embedded-opentype'),
+         url('clarendonblkbtwebfont.woff') format('woff'),
+         url('clarendonblkbtwebfont.ttf') format('truetype'),
+         url('clarendonblkbtwebfont.svg#ClarendonBlkBTBlack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

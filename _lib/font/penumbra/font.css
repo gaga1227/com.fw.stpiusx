@@ -1,0 +1,184 @@
+/*Penumbra Sans*/
+/*
+@font-face {
+    font-family: 'PenumbraSansLight';
+    src: url('penumbrasansstd-lightwebfont.eot');
+    src: url('penumbrasansstd-lightwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbrasansstd-lightwebfont.woff') format('woff'),
+         url('penumbrasansstd-lightwebfont.ttf') format('truetype'),
+         url('penumbrasansstd-lightwebfont.svg#PenumbraSansStdLightRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraSans';
+    src: url('penumbrasansstd-regularwebfont.eot');
+    src: url('penumbrasansstd-regularwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbrasansstd-regularwebfont.woff') format('woff'),
+         url('penumbrasansstd-regularwebfont.ttf') format('truetype'),
+         url('penumbrasansstd-regularwebfont.svg#PenumbraSansStdRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraSansSemiBold';
+    src: url('penumbrasansstd-semiboldwebfont.eot');
+    src: url('penumbrasansstd-semiboldwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbrasansstd-semiboldwebfont.woff') format('woff'),
+         url('penumbrasansstd-semiboldwebfont.ttf') format('truetype'),
+         url('penumbrasansstd-semiboldwebfont.svg#PenumbraSansStdBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}*/
+@font-face {
+    font-family: 'PenumbraSansBold';
+    src: url('penumbrasansstd-boldwebfont.eot');
+    src: url('penumbrasansstd-boldwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbrasansstd-boldwebfont.woff') format('woff'),
+         url('penumbrasansstd-boldwebfont.ttf') format('truetype'),
+         url('penumbrasansstd-boldwebfont.svg#PenumbraSansStdBoldRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*Penumbra Serif*/
+/*
+@font-face {
+    font-family: 'PenumbraSerifLight';
+    src: url('penumbraserifstd-lightwebfont.eot');
+    src: url('penumbraserifstd-lightwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbraserifstd-lightwebfont.woff') format('woff'),
+         url('penumbraserifstd-lightwebfont.ttf') format('truetype'),
+         url('penumbraserifstd-lightwebfont.svg#PenumbraSerifStdLightRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraSerif';
+    src: url('penumbraserifstd-regularwebfont.eot');
+    src: url('penumbraserifstd-regularwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbraserifstd-regularwebfont.woff') format('woff'),
+         url('penumbraserifstd-regularwebfont.ttf') format('truetype'),
+         url('penumbraserifstd-regularwebfont.svg#PenumbraSerifStdRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraSerifSemiBold';
+    src: url('penumbraserifstd-semiboldwebfont.eot');
+    src: url('penumbraserifstd-semiboldwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbraserifstd-semiboldwebfont.woff') format('woff'),
+         url('penumbraserifstd-semiboldwebfont.ttf') format('truetype'),
+         url('penumbraserifstd-semiboldwebfont.svg#PenumbraSerifStdBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraSerifBold';
+    src: url('penumbraserifstd-boldwebfont.eot');
+    src: url('penumbraserifstd-boldwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbraserifstd-boldwebfont.woff') format('woff'),
+         url('penumbraserifstd-boldwebfont.ttf') format('truetype'),
+         url('penumbraserifstd-boldwebfont.svg#PenumbraSerifStdBoldRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+/*Penumbra Web Pro*/
+/*
+@font-face {
+    font-family: 'PenumbraWebPro';
+    src: url('penumbrawebpro-serifwebfont.eot');
+    src: url('penumbrawebpro-serifwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbrawebpro-serifwebfont.woff') format('woff'),
+         url('penumbrawebpro-serifwebfont.ttf') format('truetype'),
+         url('penumbrawebpro-serifwebfont.svg#PenumbraWebProRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+/*Penumbra Flare*/
+/*
+@font-face {
+    font-family: 'PenumbraFlareLight';
+    src: url('penumbraflarestd-lightwebfont.eot');
+    src: url('penumbraflarestd-lightwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbraflarestd-lightwebfont.woff') format('woff'),
+         url('penumbraflarestd-lightwebfont.ttf') format('truetype'),
+         url('penumbraflarestd-lightwebfont.svg#PenumbraFlareStdLightRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraFlare';
+    src: url('penumbraflarestd-regularwebfont.eot');
+    src: url('penumbraflarestd-regularwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbraflarestd-regularwebfont.woff') format('woff'),
+         url('penumbraflarestd-regularwebfont.ttf') format('truetype'),
+         url('penumbraflarestd-regularwebfont.svg#PenumbraFlareStdRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraFlareSemiBold';
+    src: url('penumbraflarestd-semiboldwebfont.eot');
+    src: url('penumbraflarestd-semiboldwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbraflarestd-semiboldwebfont.woff') format('woff'),
+         url('penumbraflarestd-semiboldwebfont.ttf') format('truetype'),
+         url('penumbraflarestd-semiboldwebfont.svg#PenumbraFlareStdBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraFlareBold';
+    src: url('penumbraflarestd-boldwebfont.eot');
+    src: url('penumbraflarestd-boldwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbraflarestd-boldwebfont.woff') format('woff'),
+         url('penumbraflarestd-boldwebfont.ttf') format('truetype'),
+         url('penumbraflarestd-boldwebfont.svg#PenumbraFlareStdBoldRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+/*Penumbra Half Serif*/
+/*
+@font-face {
+    font-family: 'PenumbraHalfSerifLight';
+    src: url('penumbrahalfserifstd-lightwebfont.eot');
+    src: url('penumbrahalfserifstd-lightwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbrahalfserifstd-lightwebfont.woff') format('woff'),
+         url('penumbrahalfserifstd-lightwebfont.ttf') format('truetype'),
+         url('penumbrahalfserifstd-lightwebfont.svg#PenumbraHalfSerifStdLightRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraHalfSerif';
+    src: url('penumbrahalfserifstd-regwebfont.eot');
+    src: url('penumbrahalfserifstd-regwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbrahalfserifstd-regwebfont.woff') format('woff'),
+         url('penumbrahalfserifstd-regwebfont.ttf') format('truetype'),
+         url('penumbrahalfserifstd-regwebfont.svg#PenumbraHalfSerifStdRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraHalfSerifSemiBold';
+    src: url('penumbrahalfserifstd-sebdwebfont.eot');
+    src: url('penumbrahalfserifstd-sebdwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbrahalfserifstd-sebdwebfont.woff') format('woff'),
+         url('penumbrahalfserifstd-sebdwebfont.ttf') format('truetype'),
+         url('penumbrahalfserifstd-sebdwebfont.svg#PenumbraHalfSerifStdBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PenumbraHalfSerifBold';
+    src: url('penumbrahalfserifstd-boldwebfont.eot');
+    src: url('penumbrahalfserifstd-boldwebfont.eot?#iefix') format('embedded-opentype'),
+         url('penumbrahalfserifstd-boldwebfont.woff') format('woff'),
+         url('penumbrahalfserifstd-boldwebfont.ttf') format('truetype'),
+         url('penumbrahalfserifstd-boldwebfont.svg#PenumbraHalfSerifStdBoldRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
